@@ -27,4 +27,4 @@ Tem como objetivo o aprendizado de Front end básico.
 ![Arrastando](https://user-images.githubusercontent.com/49492784/74173910-bdc23d80-4c11-11ea-9740-914463637e2e.png)
 
 #### :baby_chick: Projeto Flappy Bird
-![Sem título](https://user-images.githubusercontent.com/49492784/74174144-332e0e00-4c12-11ea-9e59-10a410e14a79.png
+![Sem título](https://user-images.githubusercontent.com/49492784/74174144-332e0e00-4c12-11ea-9e59-10a410e14a79.png)
