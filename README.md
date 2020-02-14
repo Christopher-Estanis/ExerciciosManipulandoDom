@@ -1,19 +1,23 @@
 # Exercícios Manipulando a Dom
-Tem como objetivo o aprendizado de Front end básico.
 
-<h3 align="center">Exercícios</h3>
+
+<h2 align="center">Exercícios</h2>
 <p align="center">
   <a href="#books-linguagens-utilizadas">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-menu">Menu</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#fist-arrastando-elementos">Arrastando-Elementos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#baby_chick-projeto-flappy-bird">Flappy Bird</a>
+  <a href="#baby_chick-projeto-flappy-bird">Flappy-Bird</a>
 </p>
+
+---
 
 ## :books: Linguagens utilizadas 
 - HTML
 - CSS
 - JavaScript
 
+<h3 align="center">Projeto</h3>
+<p align="center">Tem como objetivo o aprendizado de Front end básico</p>
 
 
 ### :computer: Menu
